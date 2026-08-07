@@ -3,4 +3,4 @@
 Name: Vaishnavi
 
 This repository was created for my Git and GitHub Lab assignment.
-This file was updated in the MAIN branch.
+This file was updated in both the MAIN and FEATURE branches.
